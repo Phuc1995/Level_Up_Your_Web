@@ -1,0 +1,46 @@
+{
+"Users": {
+"usr_7BQd80ITe6uStMLW": {
+"ID": "usr_7BQd80ITe6uStMLW",
+"Email": "HuongTram@gmail.com",
+"HashedPassword": "$2a$10$/wAvClZargAezp/wpsz37.tglIUJgFj0Gg39LsixleJ1CvdoRoc.6",
+"Username": "HuongTram"
+},
+"usr_K61t58Ii9mJXso7F": {
+"ID": "usr_K61t58Ii9mJXso7F",
+"Email": "DinhDuongLanNgoc@gmail.com",
+"HashedPassword": "$2a$10$r0.GggQ4myrIe/wLCEwBR.obXDHMyaVruHPVZaPl83MHocMtGZ4zm",
+"Username": "DinhDuongLanNgoc"
+},
+"usr_T57u8hAnA6VoDav9": {
+"ID": "usr_T57u8hAnA6VoDav9",
+"Email": "khoimy@gmail.com",
+"HashedPassword": "$2a$10$9BraJSXhHaMIOHYe/Ba9M.l3dzcDgt0Z1y6ROi0iR3Yw.iLXVHXgC",
+"Username": "KhoiMy"
+},
+"usr_cR0GqkZ9HZZtAY7v": {
+"ID": "usr_cR0GqkZ9HZZtAY7v",
+"Email": "PhuongAnhDao@gmail.com",
+"HashedPassword": "$2a$10$3EOhlTSAnaGtzu5Eays2QuKLrWcHBywZoaJEP7w2/8Vtk7WFwztD.",
+"Username": "PhuongAnhDao"
+},
+"usr_eK3WySMuRic7tUDe": {
+"ID": "usr_eK3WySMuRic7tUDe",
+"Email": "mytam@gmail.com",
+"HashedPassword": "$2a$10$rMnHICXfXJ/ypKBorMatUOeZvyzqVLaIv3oQyPqIlaADM4AD6Pe6S",
+"Username": "MyTam"
+},
+"usr_iTP141qfI720W9AL": {
+"ID": "usr_iTP141qfI720W9AL",
+"Email": "phuc@gmail.com",
+"HashedPassword": "$2a$10$suxh7TAendOrTQaCTveKU.ymdZNqH5nWlO8XsosGOgl.SmJCAUr.W",
+"Username": "Phuc"
+},
+"usr_rG4IUBTPGXPAbD32": {
+"ID": "usr_rG4IUBTPGXPAbD32",
+"Email": "haanhtuan@gmail.com",
+"HashedPassword": "$2a$10$NIHuVL7c1/IDIMa4IKu8Iu2v8kCwG88ZgnsnPrDZIudCioTDrYeKS",
+"Username": "haanhtuan"
+}
+}
+}
